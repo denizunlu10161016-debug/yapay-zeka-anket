@@ -62,7 +62,7 @@ st.write("---")
 st.subheader("🔒 Veri Analiz Paneli")
 
 # Şifre kontrol alanı
-DOGRU_SIFRE = "ForJustice0214"
+DOGRU_SIFRE = "For_Justice"
 girilen_sifre = st.text_input(
     "Grafikleri ve analizleri görüntülemek için Yönetici Şifresini girin:", 
     type="password"
